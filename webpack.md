@@ -6,7 +6,7 @@ webpack学习
 
 ### entry 入口
 
-```javascript {line-numbers}
+```javascript 
 // 单入口
 const config = {
   entry: './src/index.js'
